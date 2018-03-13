@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_home"
+        android:title="Home"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_instructors"
+        android:title="Instructors"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_add_instructors"
+        android:title="Add Instructors"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_logout"
+        android:title="Logout"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_exit"
+        android:title="Exit"
+        app:showAsAction="never"/>
+</menu>
